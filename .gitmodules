@@ -1,0 +1,3 @@
+[submodule "ecommgo-auth-ms"]
+	path = ecommgo-auth-ms
+	url = https://github.com/seraleman/ecommgo-auth-ms
