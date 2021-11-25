@@ -1,3 +1,6 @@
 [submodule "ecommgo-auth-ms"]
 	path = ecommgo-auth-ms
 	url = https://github.com/seraleman/ecommgo-auth-ms
+[submodule "ecommgo-selling-ms"]
+	path = ecommgo-selling-ms
+	url = https://github.com/seraleman/ecommgo-selling-ms
