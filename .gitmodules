@@ -4,3 +4,6 @@
 [submodule "ecommgo-selling-ms"]
 	path = ecommgo-selling-ms
 	url = https://github.com/seraleman/ecommgo-selling-ms
+[submodule "ecommgo-product-ms"]
+	path = ecommgo-product-ms
+	url = https://github.com/seraleman/ecommgo-product-ms
