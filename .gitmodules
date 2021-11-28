@@ -7,3 +7,6 @@
 [submodule "ecommgo-product-ms"]
 	path = ecommgo-product-ms
 	url = https://github.com/seraleman/ecommgo-product-ms
+[submodule "ecommgo-review-ms"]
+	path = ecommgo-review-ms
+	url = https://github.com/seraleman/ecommgo-review-ms
