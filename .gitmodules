@@ -10,3 +10,6 @@
 [submodule "ecommgo-review-ms"]
 	path = ecommgo-review-ms
 	url = https://github.com/seraleman/ecommgo-review-ms
+[submodule "ecommgo-api-gateway"]
+	path = ecommgo-api-gateway
+	url = https://github.com/seraleman/ecommgo-api-gateway.git
